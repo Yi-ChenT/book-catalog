@@ -1,4 +1,4 @@
-# CLI‑Book‑Catalog
+# Book Catalog
 
 ## Overview
 This project is used for managing a book collection from the terminal.  
