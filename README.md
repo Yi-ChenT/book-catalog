@@ -54,7 +54,7 @@ Mac User:
 - Please input Book title: Mistborn
 - Please input Author name: Brandon Sanderson
 - Please input year book was published: 2006
-> Successfully added a Book.
+- Successfully added a Book.
 
 <hr/>
 
