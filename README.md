@@ -49,11 +49,11 @@ Mac User:
 4. deleteBook
 5. searchBooks
 6. exit program
-> Please input a number for operation (only one digit): 1
-> Please input Book ID: 100
-> Please input Book title: Mistborn
-> Please input Author name: Brandon Sanderson
-> Please input year book was published: 2006
+- Please input a number for operation (only one digit): 1
+- Please input Book ID: 100
+- Please input Book title: Mistborn
+- Please input Author name: Brandon Sanderson
+- Please input year book was published: 2006
 > Successfully added a Book.
 
 <hr/>
